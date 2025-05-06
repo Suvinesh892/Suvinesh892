@@ -16,7 +16,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 📌[About](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md##About)      
 📌[Skills](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md####Skills-Applied)      
 📌[Projects⬇️]        
-                🔓[Tata Group-Data Visualisation]((https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#tata-group--data-visualization-job-simulation))       
+                🔓[Tata Group-Data Visualisation](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#tata-group--data-visualization-job-simulation)       
                 🔓[Fast Food Analysis-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Fast-Food-Analysis)        
                 🔓[USA Mercedes Benz-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###USA-Mercedes-Benz)       
                 🔓[AtliQ hardware-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###AtliQ-hardware)      
