@@ -13,17 +13,17 @@ During my studies, I honed my ability to work with complex data and developed a 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics related topics.
 
 ## Table of Contents
-📌[About](##About)      
-📌[Skills](####Skills-Applied)      
+📌[About](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md##About)      
+📌[Skills](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md####Skills-Applied)      
 📌[Projects⬇️]        
-                🔓[Tata Group-Data Visualisation](###Tata-group---data-visualization-job-simulation)       
-                🔓[Fast Food Analysis-Dashboard](###Fast-Food-Analysis)        
-                🔓[USA Mercedes Benz-Dashboard](###USA-Mercedes-Benz)       
-                🔓[AtliQ hardware-Dashboard](###AtliQ-hardware)      
-                🔓[Additional Work](###Supplementary-Projects)
+                🔓[Tata Group-Data Visualisation](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Tata-group---data-visualization-job-simulation)       
+                🔓[Fast Food Analysis-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Fast-Food-Analysis)        
+                🔓[USA Mercedes Benz-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###USA-Mercedes-Benz)       
+                🔓[AtliQ hardware-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###AtliQ-hardware)      
+                🔓[Additional Work](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Supplementary-Projects)
 
 📌[Certifications](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications)        
-📌[Contact]([##Contact](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications))
+📌[Contact](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#Contact)
 
 ## Portfolio Projects
 
