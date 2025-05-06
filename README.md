@@ -13,8 +13,8 @@ During my studies, I honed my ability to work with complex data and developed a 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics related topics.
 
 ## Table of Contents
-📌[About](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md##About)      
-📌[Skills](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md####Skills-Applied)      
+📌[About](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#About)      
+📌[Skills](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#Skills-Applied)      
 📌[Projects⬇️]        
                 🔓[Tata Group-Data Visualisation](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#tata-group--data-visualization-job-simulation)       
                 🔓[Fast Food Analysis-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#fast-food-analysis)        
