@@ -15,8 +15,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents
 📌[About](##About)      
 📌[Skills](####Skills-Applied)      
-📌[Projects⬇️]()        
-                🔓[Tata Group-Data Visualisation](###tata-group-data-visualization-job-simulation)       
+📌[Projects⬇️]        
+                🔓[Tata Group-Data Visualisation](###Tata-group---data-visualization-job-simulation)       
                 🔓[Fast Food Analysis-Dashboard](###Fast-Food-Analysis)        
                 🔓[USA Mercedes Benz-Dashboard](###USA-Mercedes-Benz)       
                 🔓[AtliQ hardware-Dashboard](###AtliQ-hardware)      
