@@ -23,7 +23,7 @@ This repository serves to showcase my skills and as a platform to share my proje
                 🔓[Additional Work](###Supplementary-Projects)
 
 📌[Certifications](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications)        
-📌[Contact](##Contact)
+📌[Contact]([##Contact](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications))
 
 ## Portfolio Projects
 
