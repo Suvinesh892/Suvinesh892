@@ -17,10 +17,10 @@ This repository serves to showcase my skills and as a platform to share my proje
 📌[Skills](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md####Skills-Applied)      
 📌[Projects⬇️]        
                 🔓[Tata Group-Data Visualisation](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#tata-group--data-visualization-job-simulation)       
-                🔓[Fast Food Analysis-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Fast-Food-Analysis)        
-                🔓[USA Mercedes Benz-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###USA-Mercedes-Benz)       
-                🔓[AtliQ hardware-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###AtliQ-hardware)      
-                🔓[Additional Work](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md###Supplementary-Projects)
+                🔓[Fast Food Analysis-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#fast-food-analysis)        
+                🔓[USA Mercedes Benz-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#USA-Mercedes-Benz)       
+                🔓[AtliQ hardware-Dashboard](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#AtliQ-hardware)      
+                🔓[Additional Work](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#Supplementary-Projects)
 
 📌[Certifications](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications)        
 📌[Contact](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#Contact)
