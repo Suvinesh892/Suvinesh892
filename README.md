@@ -22,7 +22,7 @@ This repository serves to showcase my skills and as a platform to share my proje
                 🔓[AtliQ hardware-Dashboard](###AtliQ-hardware)      
                 🔓[Additional Work](###Supplementary-Projects)
 
-📌[Certifications](##Certifications)        
+📌[Certifications](https://github.com/Suvinesh892/Suvinesh892/blob/main/README.md#certifications)        
 📌[Contact](##Contact)
 
 ## Portfolio Projects
